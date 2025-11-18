@@ -31,7 +31,7 @@
 </script>
 
 <svelte:head>
-	<title>Blog - yuki.games</title>
+	<title>yuki.games</title>
 	<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/rss.xml" />
 </svelte:head>
 
